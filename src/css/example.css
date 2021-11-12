@@ -1,0 +1,119 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+}
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    width: 85px;
+}
+.form{ 
+    position: relative;
+    left: 400px;
+    top: 10%;
+    transform: translate(-10%, 10%);
+    border: 1px solid #d5d2d2;
+    padding: 25px;
+    border-radius: 10px;
+    width: 750px;
+    height: 550px;
+}
+h3{
+    position: relative;
+    margin: -5px 0 0 10px;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    letter-spacing: 1px;
+}
+.fields{
+    height: 35px;
+    font-size: 15px;
+ 
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+   padding: 20px 0 0 10px;   
+   
+}
+.Email{
+    display: flex;
+    flex-direction: column;
+    width: 61%;
+    gap: 10px;
+    padding: 10px;  
+}
+.gmail{
+    position: relative;
+    display: block;
+    top: -40px;
+    left: 360px;
+    font-family: roboto;
+    font-size: 15px;
+}
+a{
+    display: block;
+    position: relative;
+    font-family: roboto;
+    text-decoration: none;
+}
+.lineone{
+    font-size: 15px;
+    color: #807f7f;
+    margin: 0px 0 0 15px;
+    font: 'Sans Serif';
+}
+.linetwo{
+    color: rgb(63, 63, 248);
+    font-size: 15px;
+    margin: 15px 0 20px 10px;
+}
+.emailpassword{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+   padding: 10px; 
+}
+.linethree{
+    font-size: 15px;
+    margin: -5px 0 0 15px;
+    width: 310px;
+    color: #807f7f;
+}
+.linefour{
+    font-size: 15px;
+    margin: 100px 9px;
+    color: #4971f6;
+    display: inline-block;
+    font-family: arial rounded mt;
+}
+#next{
+    margin: 0px 0 0 275px;
+}
+
+#google{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -100%;
+    left: -3%;
+}
+#space{
+     display: flex;
+     justify-content: flex-end;
+     position: relative;
+     top: -102%;
+     left: -7%;
+}
+.icon{
+    display: flex;
+    position: relative;
+    top: -95%;
+    left: 70%;
+    width: 230px; 
+}

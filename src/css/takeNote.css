@@ -1,0 +1,58 @@
+.note{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    border: 1px solid #d5d2d2;
+    border-radius: 5px;
+    margin: 50px 0 0 400px;
+    padding: 10px 0 10px 16px;
+}
+
+.pin{
+    display: flex;
+    position: relative;
+    top: -35px;
+    left: 90%;
+    width: 25px;  
+}
+#coloricon{
+    position: relative;
+    top: 6px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 10px;
+}
+.remainder{
+    width: 20px;
+    padding: 0px 20px 0 0;
+}
+.collaborator{
+    width: 20px;
+    padding: 0px 20px 0 0;
+}
+
+.image{
+    width: 20px;
+    padding: 0px 20px 0 0;
+}
+.archive{
+    width: 20px;
+    padding: 0px 20px 0 0;
+}
+.delete{
+    width: 20px;
+    padding: 0px 20px 0 0;
+}
+.closebutton{
+    display: flex;
+    justify-content: last baseline;
+    position: relative;
+    top: -30%;
+    left: 23%;
+    color: black;
+    
+}

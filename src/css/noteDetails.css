@@ -1,0 +1,22 @@
+.notes{
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+   width: 250px;
+   height: 150px;
+   border: 1px solid #d5d2d2;
+   border-radius: 15px;
+   margin-left: 50px;
+   margin-bottom: 30px;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   
+}
+.pins{
+  width: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 15px;
+}

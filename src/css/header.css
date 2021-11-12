@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    color: white;
+}
+.toolbar{
+    display: flex;
+    width: 100%;
+    border: 1px solid #d5d2d2;
+}
+.headermenu{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    color: black;
+}
+.keeplogo{
+    display: flex;
+    padding: 10px 0 0 20px;
+    width: 40px;
+    height: 50px;
+}
+#keep{
+    padding: 0 0 0 15px;
+}
+.search{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #d5d2d2;
+    border: #d5d2d2;
+    border-radius: 5px;
+    width: 700px;
+    margin-left: 100px;
+}
+.clear-icon{
+    display: flex;
+    position: relative;
+    left: 55%;
+}
+
+.grid{
+    padding-left: 80px;
+}
+.gridsymbol{
+    margin-left: 90px;
+    margin-right: 20px;
+}

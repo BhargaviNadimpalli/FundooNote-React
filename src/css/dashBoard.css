@@ -1,0 +1,10 @@
+.dashBoardNoteContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 85%;
+    height: 70%;
+    margin-left: 130px;
+    
+}
